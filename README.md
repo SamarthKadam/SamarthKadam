@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/0MRZhSL/wp8903914-mern-stack-wallpapers.jpg)](#)
 
 <h1 align="center">Hi 👋, I'm FullStackWeb & Android Developer</h1>
 <h3 align="center">A passionate developer from India "Mastering the Art of Web and Mobile Development: Full Stack Developer"</h3>

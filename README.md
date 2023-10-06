@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dev</h1>
+<h1 align="center">Hi 👋, I'm Developer</h1>
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 

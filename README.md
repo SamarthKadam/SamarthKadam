@@ -1,10 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm FullStackWeb & Android Developer</h1>
-<h3 align="center">A passionate developer from India Mastering the Art of Web and Mobile Development: Full Stack Developer</h3>
-
-- 🔭 I’m currently working on **NextJS**
-
-- 🌱 I’m currently learning **TypeScript**
+<h1 align="center">Hi 👋, I'm Dev</h1>
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 

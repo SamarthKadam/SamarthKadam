@@ -1,13 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Developer</h1>
+<h1 align="center">Hi 👋, I'm Dev</h1>
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
 - 💬 Ask me about **react,reactnative,javascript,mern stack**
-
-- 📫 How to reach me **samarthskadam14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_BE6kX0EzAZ_x7ss3-xhdM_LguBaEraH/view?usp=sharing](https://drive.google.com/file/d/1_BE6kX0EzAZ_x7ss3-xhdM_LguBaEraH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

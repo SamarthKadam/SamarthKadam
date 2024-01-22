@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
-- 👨‍💻 All of my projects are available at [samarthkadam.vercel.app](samarthkadam.vercel.app)
+- 👨‍💻 All of my projects are available at [https://samarthkadam.vercel.app/](samarthkadam.vercel.app)
 
 - 💬 Ask me about **react,reactnative,javascript,mern stack**
 

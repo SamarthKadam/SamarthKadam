@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I work on Web and Mobile</h1>
+<h1 align="center">Hi 👋, I'm I Samarth Kadam</h1>
 <h3 align="center">I work as a mobile and web engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/samarth69908166" target="blank"><img src="https://img.shields.io/twitter/follow/samarth69908166?logo=twitter&style=for-the-badge" alt="samarth69908166" /></a> </p>

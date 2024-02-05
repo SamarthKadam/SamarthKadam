@@ -76,8 +76,10 @@
 <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" height="45"/>
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="45"/>
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="45"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/>
 </div>
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthkadam&show_icons=true&locale=en&layout=compact" alt="samarthkadam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthkadam&show_icons=true&locale=en" alt="samarthkadam" /></p>

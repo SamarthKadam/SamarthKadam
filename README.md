@@ -1,5 +1,4 @@
-<h1 align="center">Hi I'm Dev</h1>
-<h3 align="center">I work as a mobile and web engineer.</h3>
+<img align="centre" src="https://i.ibb.co/VY2THgN/samarthkadam-vercel-app-1.png"/>
 
 <p align="left"> <a href="https://twitter.com/samarth69908166" target="blank"><img src="https://img.shields.io/twitter/follow/samarth69908166?logo=twitter&style=for-the-badge" alt="samarth69908166" /></a> </p>
 

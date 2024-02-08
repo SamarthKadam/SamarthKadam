@@ -1,5 +1,6 @@
-<img align="centre" src="https://i.ibb.co/VY2THgN/samarthkadam-vercel-app-1.png"/>
-
+<p align="center">
+  <img src="https://i.ibb.co/VY2THgN/samarthkadam-vercel-app-1.png" alt="Image" />
+</p>
 <p align="left"> <a href="https://twitter.com/samarth69908166" target="blank"><img src="https://img.shields.io/twitter/follow/samarth69908166?logo=twitter&style=for-the-badge" alt="samarth69908166" /></a> </p>
 
 - 🔭 I’m currently working on **NextJS**
